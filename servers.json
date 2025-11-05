@@ -18,6 +18,7 @@
         "ips": ["hypixel.net", "ilovecatgirls.xyz"],
         "anticheat": "Watchdog",
         "ipBans": true,
+        "gridBan": true,
         "antiVpn": false
     },
     {
