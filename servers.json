@@ -82,5 +82,26 @@
         "anticheat": "Grim",
         "ipBans": false,
         "antiVpn": false
+    },
+    {
+        "name": "ElevateMC",
+        "ips": ["elevatemc.com"],
+        "ipBans": false,
+        "antiVpn": true
+    },
+    {
+        "name": "MushMC",
+        "ips": ["mush.com.br"],
+        "anticheat": "Custom",
+        "gridBan": true,
+        "ipBans": true,
+        "antiVpn": true
+    },
+    {
+        "name": "PvPGym",
+        "ips": ["pvpgym.net"],
+        "ipBans": true,
+        "gridBan": true,
+        "antiVpn": true
     }
 ]
