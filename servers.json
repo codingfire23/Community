@@ -112,5 +112,33 @@
         "ipBans": false,
         "gridBan": false,
         "antiVpn": false
+        
+    },
+    {
+        "name": "Zentic",
+        "ips": ["mc.zentic.cc", "zentic.cc"],
+        "anticheat": "Grim",
+        "ipBans": false,
+        "gridBan": false,
+        "antiVpn": false
+        
+    },
+    {
+        "name": "Mospixel",
+        "ips": ["funniesthvh.uk"],
+        "anticheat": "Old NoCheatPlus",
+        "ipBans": false,
+        "gridBan": false,
+        "antiVpn": false
+        
+    },
+    {
+        "name": "2B2T",
+        "ips": ["2b2t.org"],
+        "anticheat": "Grim",
+        "ipBans": false,
+        "gridBan": false,
+        "antiVpn": false
+        
     }
 ]
