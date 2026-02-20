@@ -72,7 +72,7 @@
     {
         "name": "Blocks MC",
         "ips": ["blocksmc.com"],
-        "anticheat": "Grim",
+        "anticheat": "Grim + Verus + NCP + Custom", 
         "ipBans": true,
         "antiVpn": true
     },
@@ -125,7 +125,7 @@
     },
     {
         "name": "Mospixel",
-        "ips": ["funniesthvh.uk"],
+        "ips": ["funniesthvh.uk", "mc.themoskau.xyz"],
         "anticheat": "Old NoCheatPlus",
         "ipBans": false,
         "gridBan": false,
