@@ -141,6 +141,14 @@
         "antiVpn": true
     },
     {
+        "name": "Fakepixel",
+        "ips": ["mc.fakepixel.me"],
+        "anticheat": "Grim",
+        "ipBans": true,
+        "gridBan": true,
+        "antiVpn": true
+    },
+    {
         "name": "MineMalia",
         "ips": ["play.minemalia.com"],
         "anticheat": "Polar",
