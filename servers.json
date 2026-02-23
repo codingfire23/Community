@@ -70,10 +70,11 @@
         "anticheat": "Matrix"
     },
     {
-        "name": "Blocks MC",
+        "name": "BlocksMC",
         "ips": ["blocksmc.com"],
         "anticheat": "Grim + Verus + NCP + Custom", 
         "ipBans": true,
+        "gridBan": false,
         "antiVpn": true
     },
     {
@@ -125,7 +126,7 @@
     },
     {
         "name": "Mospixel",
-        "ips": ["funniesthvh.uk", "mc.themoskau.xyz"],
+        "ips": ["funniesthvh.uk", "mc.themoskau.xyz, hvh.cherry.cat"],
         "anticheat": "Old NoCheatPlus",
         "ipBans": false,
         "gridBan": false,
@@ -144,8 +145,6 @@
         "name": "Fakepixel",
         "ips": ["mc.fakepixel.me"],
         "anticheat": "Grim",
-        "ipBans": true,
-        "gridBan": true,
         "antiVpn": true
     },
     {
@@ -155,6 +154,14 @@
         "ipBans": true,
         "gridBan": false,
         "antiVpn": true
+    },
+    {
+        "name": "Mineberry",
+        "ips": ["mc.mineberry.org"],
+        "anticheat": "Polar",
+        "ipBans": true,
+        "gridBan": false,
+        "antiVpn": false
     },
     {
         "name": "2B2T",
