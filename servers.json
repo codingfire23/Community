@@ -43,7 +43,7 @@
         "antiVpn": true
     },
     {
-        "name": "Arch MC",
+        "name": "ArchMC",
         "ips": ["arch.mc"],
         "anticheat": "Polar",
         "ipBans": false,
@@ -134,7 +134,7 @@
         
     },
     {
-        "name": "Universo Craft",
+        "name": "UniversoCraft",
         "ips": ["mc.universocraft.com"],
         "anticheat": "Polar",
         "ipBans": true,
