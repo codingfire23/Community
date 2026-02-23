@@ -156,6 +156,12 @@
         "antiVpn": true
     },
     {
+        "name": "Ticocraft",
+        "ips": ["mc.ticocraft.com"],
+        "anticheat": "Custom",
+        "antiVpn": false
+    },
+    {
         "name": "Mineberry",
         "ips": ["mc.mineberry.org"],
         "anticheat": "Polar",
