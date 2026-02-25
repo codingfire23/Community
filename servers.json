@@ -158,7 +158,7 @@
     {
         "name": "Ticocraft",
         "ips": ["mc.ticocraft.com"],
-        "anticheat": "Custom",
+        "anticheat": "TicoGuard",
         "antiVpn": false
     },
     {
